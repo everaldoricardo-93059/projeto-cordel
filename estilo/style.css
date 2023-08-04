@@ -59,6 +59,10 @@ section {
     font-family: var(--fonte3)
 }
 
+section > p {
+    padding-bottom: 2em;
+}
+
 section.mormal {
     background-color: white;
     color: black;
